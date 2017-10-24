@@ -1,0 +1,83 @@
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Clinical Database.exe.config
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Clinical Database.exe
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Clinical Database.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical_Database.Properties.Resources.resources
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical Database.csproj.GenerateResource.Cache
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical Database.exe
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical Database.pdb
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical_Database.frmDiagnosesDatabase.resources
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical_Database.frmFrame.resources
+c:\users\matt\documents\visual studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical_Database.frmMedDatabase.resources
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\EntityFramework.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.Helpers.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.Mvc.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.Razor.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.WebPages.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\EntityFramework.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.Helpers.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.Mvc.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.Razor.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.WebPages.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Remotion.Linq.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Interactive.Async.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.Relational.Design.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.Design.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\Remotion.Linq.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Interactive.Async.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\obj\Debug\Clinical Database.csprojResolveAssemblyReference.cache
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\ClinicalDB.mdf
+C:\Users\Matt\Documents\Visual Studio 2015\Projects\Clinical Database\Clinical Database\bin\Debug\ClinicalDB_log.ldf
